@@ -1,6 +1,8 @@
 # Image Encryption & Compression System
 
 A Python-based image processing project that implements dual-layer encryption (Bitwise XOR + Matrix Permutation) alongside spatial reduction algorithms for efficient, secure data transmission.
+<img src="screenshots/Screenshot 2025-12-25 231640.jpg" width="500" alt="Description">
+<img src="screenshots/Screenshot 2025-12-25 231623.jpg" width="500" alt="Description">
 
 ## 📌 Overview
 This project explores the intersection of security and bandwidth efficiency. It allows for encrypting images while simultaneously reducing their size using neighbor-averaging techniques. This simulates a real-world scenario where a sender transmits a lightweight, secure payload to a server, and the client reconstructs (decrypts and upscales) the image locally.
