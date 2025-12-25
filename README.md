@@ -47,8 +47,8 @@ The matrix permutation shuffles pixel positions based on a random index map. The
 The combined search space is $O(2^n \times N!)$, ensuring that the encryption theoretically withstands any brute-force attempt using current computing power.
 
 ## 🛠️ Dependencies
-* **Numpy:** 
-* **OpenCV:**
+* **Numpy** 
+* **OpenCV**
 
 ## 💻 Usage
 
